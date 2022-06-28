@@ -34,5 +34,5 @@ anchors                  shape: (1, 261888, 4)        min:   -0.04424  max:    0
 
 
 
-The dataset and weights are available on my Google Drive. If required, kindly reach out to me on ````siddharthmathur20@gmail.com````
+The dataset and weights are available on my Google Drive. If required, kindly reach out to me at ````siddharthmathur20@gmail.com````
 
